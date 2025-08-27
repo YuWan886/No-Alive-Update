@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "PCL/Setup.ini"
+hash = "50c18e170b49807cf3aae69f6b7e758e3b5c6b1c1823bdf7d32846227854eeb7"
+
+[[files]]
 file = "config/ModernUI/bootstrap.properties"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -155,6 +159,10 @@ hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
 [[files]]
 file = "config/xaeroworldmap.txt"
 hash = "12a497b8875bc476eb3b0a5c2141101c587f1014daae3e20108bc1c87ffcd711"
+
+[[files]]
+file = "hmclversion.cfg"
+hash = "099b9f9cb6a91b93d4fef931457881c23c4c8ad691b49fff5762b1473958071e"
 
 [[files]]
 file = "icon.png"
