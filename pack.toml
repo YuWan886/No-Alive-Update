@@ -1,0 +1,13 @@
+name = "No Alive"
+author = "一条鱼丸"
+version = "0.1.3b"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b542299610149f57bae8668ed8cfaa3933bedcdfb518d704c0a96811bfbac157"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

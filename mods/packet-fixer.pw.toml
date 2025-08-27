@@ -1,0 +1,13 @@
+filename = 'packetfixer-3.2.0-1.18-1.20.4-merged.jar'
+name = 'PacketFixer'
+side = 'both'
+
+[download]
+hash = '9ea3733a12de7994ece98ead191f2cbf32613d47eac55a96334cd598e6fc29cdadfbcec6f572ad034ecab32be2ba42679d0548c2a921907d2339d05a5f1338b7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/c7m1mi73/versions/OtuIxzee/packetfixer-3.2.0-1.18-1.20.4-merged.jar'
+
+[update.modrinth]
+mod-id = 'c7m1mi73'
+version = 'OtuIxzee'

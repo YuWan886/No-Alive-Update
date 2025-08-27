@@ -1,0 +1,13 @@
+filename = 'IMBlocker-5.4.3.1-forge+1.17-1.20.4.jar'
+name = 'IMBlocker'
+side = 'both'
+
+[download]
+hash = 'c6651673b81011fb8c7165b7941871060d3217894ac9dcc83c52efe4f99033a53e866abed0c0c9cd43a7f6c60e72b655ebb0e43673175fa126563c20095a39a8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WMDesFsZ/versions/vqhzTeuW/IMBlocker-5.4.3.1-forge%2B1.17-1.20.4.jar'
+
+[update.modrinth]
+mod-id = 'WMDesFsZ'
+version = 'vqhzTeuW'

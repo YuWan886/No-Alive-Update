@@ -1,0 +1,13 @@
+filename = 'hiddennames-1.20.1-1.0.6.jar'
+name = 'Hidden Names'
+side = 'both'
+
+[download]
+hash = '3764f1410de0403291fc4416eae7adf168037ecb2eeccbf6764070fd1e6ad8136f8518b2532ee04a528958eee39b07ee6765053785c971da0df8c2092d8132e0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pLvK0C81/versions/5eZNuN1G/hiddennames-1.20.1-1.0.6.jar'
+
+[update.modrinth]
+mod-id = 'pLvK0C81'
+version = '5eZNuN1G'

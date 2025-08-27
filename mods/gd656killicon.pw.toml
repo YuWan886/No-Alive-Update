@@ -1,0 +1,13 @@
+filename = 'gd656killicon-0.4.2-1.20.1-forge.jar'
+name = 'GD656Killicon'
+side = 'both'
+
+[download]
+hash = '117b3c1ca4049c5fe0fed7620d0bf2728f35f87ada07865bfe76748e945d731658c1a936994e8715b3a860daccf636fe3c4df4f32c4a5ba5c936455e9c8d7b31'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dWe4hPBb/versions/ApwqMkVH/gd656killicon-0.4.2-1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'dWe4hPBb'
+version = 'ApwqMkVH'

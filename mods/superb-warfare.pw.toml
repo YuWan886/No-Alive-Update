@@ -1,0 +1,13 @@
+filename = 'superbwarfare-1.20.1-0.8.7-f7df44307.jar'
+name = 'Superb Warfare'
+side = 'both'
+
+[download]
+hash = 'b85a1c854d584f0c1b99ebca076acc3e1e3ed703494f645b393b6e1a81d05e484f63fdf08bb104dbb73a7874d6e7f40845fdb9b75a06588fca96262c9b3c0bcd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Cd3DYqzn/versions/tjs5f8Ym/superbwarfare-1.20.1-0.8.7-f7df44307.jar'
+
+[update.modrinth]
+mod-id = 'Cd3DYqzn'
+version = 'tjs5f8Ym'

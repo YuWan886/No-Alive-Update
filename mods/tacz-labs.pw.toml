@@ -1,0 +1,13 @@
+filename = 'taczlabs-1.20.1-1.1.3.1.jar'
+name = 'TaCZ-Labs'
+side = 'both'
+
+[download]
+hash = '321861cb26115d2f3582ffda109fc80fe476033960a76703477e0449b16ac8f7499df8db8dd3dab1ab4e96a29747e137bc118a61ad223dabe1f8939974c02dd3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2zMQbEYF/versions/FKlsbYwa/taczlabs-1.20.1-1.1.3.1.jar'
+
+[update.modrinth]
+mod-id = '2zMQbEYF'
+version = 'FKlsbYwa'

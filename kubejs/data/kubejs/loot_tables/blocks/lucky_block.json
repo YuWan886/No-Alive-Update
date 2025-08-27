@@ -1,0 +1,24 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "loot_table",
+                    "name": "na:lucky/attachment",
+                    "weight": 3
+                },
+                {
+                    "type": "loot_table",
+                    "name": "na:lucky/armor",
+                    "weight": 3
+                },
+                {
+                    "type": "loot_table",
+                    "name": "na:lucky/other",
+                    "weight": 4
+                }
+            ]
+        }
+    ]
+}

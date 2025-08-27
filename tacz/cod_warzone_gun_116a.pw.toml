@@ -1,0 +1,13 @@
+name = "[TACZ1.1.5+]Call of Duty Warzone Ver1.1.6A"
+filename = "cod_warzone_gun_116a.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf9600fb2f458feb9c1cf55ab34563a1cd662df3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6882523
+project-id = 1196617

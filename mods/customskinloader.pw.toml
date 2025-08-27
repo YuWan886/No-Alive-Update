@@ -1,0 +1,13 @@
+filename = 'CustomSkinLoader_ForgeV2-14.25.jar'
+name = 'CustomSkinLoader'
+side = 'both'
+
+[download]
+hash = '5161089de82fba1dac0d4cfcc12eeedb2b98d7481e87f7c67abcf9c7b877e852df4d5668fb9b2f62fa3e817226a4c16226dc32d97389167aec1ecf8ff50c5eb0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/idMHQ4n2/versions/CdHgYmem/CustomSkinLoader_ForgeV2-14.25.jar'
+
+[update.modrinth]
+mod-id = 'idMHQ4n2'
+version = 'CdHgYmem'

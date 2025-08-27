@@ -1,0 +1,13 @@
+name = "[TaCZ]MCS2 gunpack"
+filename = "MCS2_Gunpack_v1.0.4_AWP_tacz1.1.4_hotfix3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "151bfd88ae66bfb13d5a0f01956b5494cb0fdda0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6083203
+project-id = 1113043

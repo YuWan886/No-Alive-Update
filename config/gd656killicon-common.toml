@@ -1,0 +1,96 @@
+
+#通用设置
+[general]
+	#是否记录泥土方块信息
+	logDirtBlock = true
+	#一个魔法数字
+	#Range: > 0
+	magicNumber = 42
+	magicNumberIntroduction = "魔法数字是: "
+	#物品列表
+	items = ["minecraft:apple"]
+
+#击杀图标设置
+[kill_icon]
+	#击杀图标显示时长（游戏刻）
+	#Range: 20 ~ 200
+	duration = 30
+	#淡出时间（游戏刻）
+	#Range: 10 ~ 60
+	fadeTime = 18
+	#击杀图标尺寸
+	#Range: 16 ~ 64
+	size = 20
+	#是否显示击杀图标
+	showKillIcons = true
+	#是否显示击杀字幕
+	showKillSubtitles = true
+	#自定义击杀字幕格式 (使用 {weapon} 和 {target} 作为占位符)
+	customSubtitleFormat = "你使用{weapon}击败了{target}"
+	#自定义助攻字幕格式 (使用 {weapon} 和 {target} 作为占位符)
+	assistSubtitleFormat = "你助攻击败了{target}"
+	#图标显示模式
+	#Allowed Values: SCROLLING, COMBO, RESERVED
+	iconMode = "SCROLLING"
+
+#文字颜色设置
+[text_colors]
+	#武器文字颜色（十六进制格式，例如 008080）
+	weaponColor = "00FFAA"
+	#目标文字颜色（十六进制格式，例如 FF0000）
+	targetColor = "F0127A"
+	#暴击文字颜色（十六进制格式，例如 FFD700）
+	criticalColor = "FFD700"
+	#闪烁颜色（十六进制格式，例如 FF0000）
+	flashingColor = "FF0000"
+	#高分颜色（十六进制格式，例如 FFD700）
+	highScoreColor = "FFD700"
+
+#击杀图标位置设置
+[kill_icon_position]
+	#水平偏移量
+	#Range: -300 ~ 300
+	horizontalOffset = 0
+	#垂直偏移量
+	#Range: -300 ~ 300
+	verticalOffset = -40
+
+#音效设置
+[sound]
+	#音效音量 (0-125%)
+	#Range: 0 ~ 125
+	volume = 100
+
+#连击分数设置
+[combo_score]
+	#是否显示连击分数
+	showComboScore = false
+	#连击分数显示时长(毫秒)
+	#Range: 500 ~ 5000
+	comboScoreDuration = 2000
+	#连击分数字体缩放百分比(100为正常大小)
+	#Range: 100 ~ 500
+	comboScoreFontScale = 125
+	#连杀判定时间（秒）
+	#Range: 1 ~ 10
+	comboTimeout = 3
+	#滚动动画速度（秒）
+	#Range: 0.1 ~ 1.0
+	scrollAnimationSpeed = 0.3
+
+#调试设置
+[debug]
+	#启用调试模式
+	debugMode = false
+	#在屏幕上显示调试信息
+	debugShowInfo = false
+	#最大图标数量限制（0表示无限制）
+	#Range: 0 ~ 100
+	debugMaxIcons = 0
+
+#界面设置
+[ui]
+	#列表滚动灵敏度 (0.1-2.0)
+	#Range: 0.1 ~ 2.0
+	scrollSensitivity = 0.6
+

@@ -1,0 +1,13 @@
+name = "[TACZ]Valorant Gun Pack for TACZ"
+filename = "Valorant_gunpack_v0.1.1-beta.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f4e2af094406e9d56f36dad380699e303bcb29e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6779283
+project-id = 1268425

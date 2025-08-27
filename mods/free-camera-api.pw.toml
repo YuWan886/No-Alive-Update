@@ -1,0 +1,13 @@
+filename = 'freecameraapi-forge-1.20.1-2.1.1.jar'
+name = 'Free camera API'
+side = 'client'
+
+[download]
+hash = '511ab27c5cde6910451695d2ac9dc9f57eb9daeef10e4e130ef34fc46ccf0d465d9ec8cc8205b857ae0b0bd52ff6f594debbec92c750b8c6bd567e19f5146696'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KCR6bnbY/versions/KPfcW1ig/freecameraapi-forge-1.20.1-2.1.1.jar'
+
+[update.modrinth]
+mod-id = 'KCR6bnbY'
+version = 'KPfcW1ig'

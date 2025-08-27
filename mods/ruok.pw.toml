@@ -1,0 +1,13 @@
+filename = 'RuOK-1.7.1_1.20.1-Forge.jar'
+name = 'RuOK'
+side = 'client'
+
+[download]
+hash = '5fd0d20f9ec1a0a79c5dd2f0b4b4ddadc1e04415278b791ae88159689c1205540d1b002c6e13bab32be7b9d12a183ed040097aaafc370f96bee020c309d47cd5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aTsegPV0/versions/cXgC1b1f/RuOK-1.7.1_1.20.1-Forge.jar'
+
+[update.modrinth]
+mod-id = 'aTsegPV0'
+version = 'cXgC1b1f'

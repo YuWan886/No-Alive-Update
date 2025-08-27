@@ -1,0 +1,13 @@
+filename = 'threatengl-forge-2.0.4-release.9.jar'
+name = 'ThreatenGL'
+side = 'both'
+
+[download]
+hash = 'd9eee29e10507e85c8f24e935ea34e84ad75caaa3def5f3da1514d2ed01644d93b5afa38f34931661658c3b8ddd36d13f0ff539c4ecd6c28d8e3e7c9068e09d4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RSFrpoou/versions/1Pq6nXXw/threatengl-forge-2.0.4-release.9.jar'
+
+[update.modrinth]
+mod-id = 'RSFrpoou'
+version = '1Pq6nXXw'

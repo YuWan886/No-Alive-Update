@@ -1,0 +1,13 @@
+name = "[TaCZ]Pixel Gun 3D Classic Gun Pack"
+filename = "[像素射击：经典]Pixel Gun 3D：Classic 1.1.5.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f5e16578fff1168ecb1452825c6b64fa4cdd3528"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6930273
+project-id = 1214245

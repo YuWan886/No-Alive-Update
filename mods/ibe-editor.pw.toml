@@ -1,0 +1,13 @@
+filename = 'IBEEditor-1.20-2.2.8-forge.jar'
+name = 'IBE Editor'
+side = 'client'
+
+[download]
+hash = '29bbb38a7b2cb3cc011f9170150979bf8987b01df0d62f6ecb634db54832a58a66623edddf9e6c67a744403899943bed2591c29001c1e9c0eb31bb4cbab776bf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/E9sX1ncV/versions/Xt1HBBDl/IBEEditor-1.20-2.2.8-forge.jar'
+
+[update.modrinth]
+mod-id = 'E9sX1ncV'
+version = 'Xt1HBBDl'

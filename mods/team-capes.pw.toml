@@ -1,0 +1,13 @@
+filename = 'TeamCapes-forge-1.0.0.jar'
+name = 'Team Capes'
+side = 'client'
+
+[download]
+hash = '7cc046addf03460460a5075825b0e69b484575f02cb11e4c9ee58c75acd977ec20f480c1bd90951048a8346154257919b3e404e4a1507202147bf66d73832680'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Sw4LxdbE/versions/OJPCRE1u/TeamCapes-forge-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'Sw4LxdbE'
+version = 'OJPCRE1u'
